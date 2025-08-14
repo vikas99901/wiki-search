@@ -1,9 +1,8 @@
-# wiki-search
-Wiki Search
+# wiki-search\
 
 A simple, fast, and responsive web application that lets users search Wikipedia articles in real time using the Wikipedia API.
 
-🚀 Features
+🚀 ##Features
 
 Instant Search – Enter a query and press Enter to trigger the search.
 
@@ -13,7 +12,7 @@ Clean UI – Minimalist design for distraction-free searching.
 
 Responsive Layout – Works smoothly on desktop and mobile devices.
 
-🛠️ Technologies Used
+🛠️ #Technologies Used
 
 HTML5 – Structure and layout.
 
@@ -23,7 +22,7 @@ JavaScript (Vanilla) – Logic and API integration.
 
 Wikipedia API – Data source for search results.
 
-📦 Installation & Usage
+📦 ##Installation & Usage
 
 Clone the repository
 
@@ -40,14 +39,14 @@ Type your search term in the input field.
 
 Press Enter to see results with a title, URL, and description.
 
-🔗 API Reference
+🔗 ##API Reference
 
 This project uses the Wikipedia REST API.
 Example endpoint:
 
 https://en.wikipedia.org/w/rest.php/v1/search/title?q=SEARCH_TERM
 
-📄 License
+📄 ##License
 
 This project is licensed under the MIT License – feel free to modify and distribute.
 This project is licensed under the MIT License – feel free to modify and distribute.
