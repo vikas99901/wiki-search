@@ -22,7 +22,7 @@ JavaScript (Vanilla) – Logic and API integration.
 
 Wikipedia API – Data source for search results.
 
-📦 ##Installation & Usage
+##Installation & Usage
 
 Clone the repository
 
